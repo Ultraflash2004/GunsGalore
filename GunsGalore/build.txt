@@ -1,0 +1,3 @@
+author = Ultraflash2004
+version = 0.21
+displayName = Guns Galore
